@@ -1,3 +1,5 @@
+# dataset is too big for github, so we create data folder and keep it off github
+data/
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
